@@ -5,6 +5,8 @@ I am looking to join a team who strives to build projects bigger than an individ
 
 Click my portfolio to learn about me and ask any many questions as you would like !
 
+https://davida-garner.netlify.app/
+
 
 
 ![readmePortfolio](https://user-images.githubusercontent.com/78241661/115492880-a8429d80-a230-11eb-80b5-cbe19d49ac84.jpg)
